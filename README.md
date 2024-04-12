@@ -6,4 +6,4 @@
 
 ## Requisitos Técnicos
 
-1. 
+1. Crear una cuenta AWS
